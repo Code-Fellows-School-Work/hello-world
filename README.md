@@ -16,7 +16,20 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 # Table of contents
 
 ## Code 102 Reading Notes
-[Day 1](docs/class1.md
-)
+[Class 1](path/code-102-notes/class1.md)
+
+[Class 2](path/code-102-notes/class2.md)
+
+[Class 3](path/code-102-notes/class3.md)
+
+[Class 4](path/code-102-notes/class4.md)
+
+[Class 5](path/code-102-notes/class5.md)
+
+[Class 6](path/code-102-notes/class6.md)
+
+[Class 7](path/code-102-notes/class7.md)
+
+[Class 8](path/code-102-notes/class8.md)
 
 ## Code 201 Reading Notes

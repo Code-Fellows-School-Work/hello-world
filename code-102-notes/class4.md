@@ -39,11 +39,41 @@ Markup language that defines structure of content.
 
 Attributes contain extra information about the element that you don't want to show in the actual content
 Attributes that set a value always have:
-- A soace between it and the element name
+- A space between it and the element name
 - The attribute name followed be an equal sign
 - Attribute value wrapped by opening and closing quotation marks
 
 Nesting elements allows to put elements within elements
 - ex. using paragraph element and bold element within same code
     - <p>My cat is <strong>very</strong> grumpy.</p>
-    
+
+## Anatomy of HTML
+
+Elements of HTML
+1. doc type
+2. html brackets
+3. head element
+4. meta name
+5. title element
+6. body element 
+
+## Adding misc to HTML
+
+* <img> element - use SRC
+* <> h1 - h6 - adds headings
+* <> ul - unordered list
+* <> ol - ordered list
+* <> li - puts contents within list
+* <> a - adds list to website (anchor)
+
+# Semantics
+
+Def: Meaning of a piece of code (what effect does this code have) or purpose of an HTML element
+
+Purpose: HTML semantics takes the contents and gives a label to that content
+
+ex. 
+- Justic League (header)
+- Team of superheros appearing in DC comics (paragraph)
+- Members (subheading)
+- Batman, Wonderwoman, Superman (list items)

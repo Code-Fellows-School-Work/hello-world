@@ -1,33 +1,61 @@
 <!DOCTYPE html>
 <html>
     <head>
-     <title>Professional Socks SITE</title>    
+     <title>Tonkotsu SITE</title>    
     </head>
     <body>
         <header>
-            <h1>Professional Socks</h1>
+            <h1>Tonkotsu</h1>
             <nav> 
                 <ul>
-                    <li><a href="https://google.com">Link to Partner's page</a></li>   
-                    <li><a href="/">Link 2</a></li>
-                    <li><a href="/">Link 3</a></li>
+                    <a href="https://google.com">Link to Partner's page</a> 
+                    <a href="/">Link 2</a>
+                    <a href="/">Link 3</a>
                 </ul> 
             </nav>
-        </header>
-        <main>
-            <Section>
-                <img src="https://placehold.co/600x400" alt="Blank space sized 600 x 400">
-                <p>Lorum ipsum</p>
-            </Section>
-            <Section></Section>
-            <Section></Section>
+            <style>
+                .grid-container {
+                    display: grid;
+                    grid-template-columns: repeat(2, 1fr); /* Create a 2x2 grid */
+                    grid-gap: 10px; /* Adjust the gap between grid items */
+                }
+        
+                .grid-item {
+                    border: 1px solid #ccc;
+                    padding: 10px;
+                }
+        
+                .grid-item img {
+                    max-width: 100%; /* Ensure images fit within their containers */
+                    height: auto; /* Maintain aspect ratio */
+                }
+            </style>
+        </head>
+        <body>
+            <div class="grid-container">
+                <div class="grid-item">
+                    <img src="image1.jpg" alt="Image 1">
+                    <p>Lorun ipsum</p>
+                </div>
+                <div class="grid-item">
+                    <img src="image2.jpg" alt="Image 2">
+                    <p>Lorun ipsum</p>
+                </div>
+                <div class="grid-item">
+                    <img src="image3.jpg" alt="Image 3">
+                    <p>Lorun ipsum</p>
+                </div>
+                <div class="grid-item">
+                    <img src="image4.jpg" alt="Image 4">
+                    <p>Lorun ipsum</p>
+                </div>
+            </div>
+        
 
-        </main>
 
+            <footer>
+                Copyright Errol V.
+            </footer>
 
-        <footer>
-
-        </footer>
-
-    </body>
+        </body>
 </html>

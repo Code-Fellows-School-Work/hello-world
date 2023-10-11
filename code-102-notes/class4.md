@@ -77,3 +77,16 @@ ex.
 - Team of superheros appearing in DC comics (paragraph)
 - Members (subheading)
 - Batman, Wonderwoman, Superman (list items)
+
+## Answer
+What is HTML and why do we use it?
+- Hypertext markup language and it's used to make webpages
+
+What are the 3 main parts of an HTML element?
+- Opening tag, content, closing tag
+
+What is it called when you give an element extra information?
+- Attribute
+
+What is a semantic element?
+- Provides meaning to a piece of code

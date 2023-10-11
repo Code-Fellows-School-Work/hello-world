@@ -35,3 +35,8 @@ Cascading order if multiple styles are identified
 p {
     color: red;
 }
+
+## Class notes
+
+Float takes an element outside of his default state
+Display property modifies a default display state

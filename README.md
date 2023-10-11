@@ -11,13 +11,13 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 ## Code 102 Reading Notes
 [Class 1](code-102-notes/class1.md)
 
-[Class 2](code-102-notes/class2.md)
+[Class 2 Notes - The Coder's Computer](code-102-notes/class2.md)
 
-[Class 3](code-102-notes/class3.md)
+[Class 3 Notes - Revisions and the Cloud](code-102-notes/class3.md)
 
-[Class 4](code-102-notes/class4.md)
+[Class 4 Notes - Structure Webpages for HTML](code-102-notes/class4.md)
 
-[Class 5](code-102-notes/class5.md)
+[Class 5 Notes - Design Web Pages with CSS](code-102-notes/class5.md)
 
 [Class 6](code-102-notes/class6.md)
 

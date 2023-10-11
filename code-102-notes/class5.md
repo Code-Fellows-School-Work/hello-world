@@ -1,4 +1,4 @@
-# Class 5 notes - Design Web Pages with CSS
+# Class 5 Notes - Design Web Pages with CSS
 
 ## What is CSS?
 

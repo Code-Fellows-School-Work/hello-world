@@ -1,3 +1,3 @@
-# Class 1 notes
+# Class 1 Notes
 
 test

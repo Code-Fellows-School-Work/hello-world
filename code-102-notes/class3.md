@@ -1,4 +1,4 @@
-# Class 3 notes - Revisions and the Cloud
+# Class 3 Notes - Revisions and the Cloud
 
 ## Revisions and the Cloud
 

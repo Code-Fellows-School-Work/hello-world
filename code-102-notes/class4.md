@@ -1,4 +1,4 @@
-# Class 4 notes - Structure Webpages for HTML
+# Class 4 Notes - Structure Webpages for HTML
 
 ## What is wireframe?
 
@@ -37,7 +37,8 @@ Markup language that defines structure of content.
     3. Content
     4. Element (all 3 combined)
 
-Attributes contain extra information about the element that you don't want to show in the actual content
+Attributes contain extra information about the element that you don't want to show in the actual content.
+
 Attributes that set a value always have:
 - A space between it and the element name
 - The attribute name followed be an equal sign
@@ -68,7 +69,7 @@ Elements of HTML
 
 # Semantics
 
-Def: Meaning of a piece of code (what effect does this code have) or purpose of an HTML element
+Def: Meaning of a piece of code (what effect does this code have)
 
 Purpose: HTML semantics takes the contents and gives a label to that content
 

@@ -1,4 +1,4 @@
-# Read 02 Notes - The Coder's Computer
+# Class 02 Notes - The Coder's Computer
 
 ## Command Line
 

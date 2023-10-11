@@ -1,3 +1,5 @@
-# Class 5 notes
+# Class 5 notes - Design Web Pages with CSS
 
-Test
+## What is CSS?
+
+A styling language

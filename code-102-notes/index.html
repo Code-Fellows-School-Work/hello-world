@@ -7,15 +7,27 @@
     <body>
         <header>
             <h1>Lorem Ipsum</h1>
-            <nav> 
-                <a href="https://google.com">Home</a> 
-                <a href="https://google.com/">News</a>
-                <a href="https://google.com">Blog</a>
-                <a href="https://xind14.github.io/Code-Fellows-Projects/code-102/index">Visit Yen</a>
-            </nav>
+            <section>
+                <nav> 
+                    <a href="https://google.com">Home</a> 
+                    <a href="https://google.com/">News</a>
+                    <a href="https://google.com">Blog</a>
+                    <a href="https://xind14.github.io/Code-Fellows-Projects/code-102/index">Visit Yen</a>
+                </nav>
+            </section>
         </header>
         <main>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Amet mauris commodo quis imperdiet. Porttitor massa id neque aliquam vestibulum morbi blandit cursus. Risus pretium quam vulputate dignissim suspendisse in est ante in. Convallis posuere morbi leo urna molestie at.</p>
+            <script>   
+                alert('Welcome!');
+
+                const usersAnswer = prompt('Describe using three to five sentences your favorite lorem ipsum.');
+                if (usersAnswer === null || usersAnswer.trim() === "") {
+                    document.write('I know you did not write anything, but here are some lorem ipsum texts and photos anyway.');
+                    } else {
+                    document.write('Here are some of your favorites!');
+                    }
+                
+            </script>  
         <section>
             <div class="grid-container">
                 <div class="grid-item">

@@ -42,3 +42,30 @@ if (x == y) {
 else {
     consolve.log('No it isnt');
 }
+
+
+<!-- <script>            -->
+const usersAnswer = prompt('What is your favorite Lorem ipsum?');
+
+console.log('User typed: ' + usersAnswer);
+
+document.write('Hi ' + usersName);
+
+console.log(usersName);
+
+document.write('Hi ' + usersName);
+
+let x = 5
+let y = 5
+
+if (x == y) {
+console.log('Yes it is');
+    }
+else {
+console.log('No it isnt');
+}
+
+
+document.write('Thank you very much'); 
+
+<!-- </script> -->

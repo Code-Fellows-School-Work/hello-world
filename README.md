@@ -19,7 +19,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 [Class 5 Notes - Design Web Pages with CSS](code-102-notes/class5.md)
 
-[Class 6](code-102-notes/class6.md)
+[Class 6 Notes - Activate Web Pages with Javascript](code-102-notes/class6.md)
 
 [Class 7](code-102-notes/class7.md)
 

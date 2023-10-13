@@ -2,8 +2,12 @@ alert('Welcome!');
 
 function askMyFlavor() {
     let myFlavor = prompt('What kind of poke is my favorite? (spicy ahi for answer)');
-    while(myFlavor != 'spicy ahi'){
+    while (myFlavor !== 'spicy ahi'){
+        myFlavor = prompt('Nope, try again (hint: spicy ahi).');
     }
+    alert('That is correct! Spicy ahi is my favorite.');
+
+    return
 }
 
 function askFlavor() {

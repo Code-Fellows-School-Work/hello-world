@@ -9,21 +9,21 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 # Table of contents
 
 ## Code 102 Reading Notes
-[Class 1 Notes - Learning Markdown](code-102-notes/class1.md)
+[Class 1 Notes - Learning Markdown](code-102-notes/reading-notes/class1.md)
 
-[Class 2 Notes - The Coder's Computer](code-102-notes/class2.md)
+[Class 2 Notes - The Coder's Computer](code-102-notes/reading-notes/class2.md)
 
-[Class 3 Notes - Revisions and the Cloud](code-102-notes/class3.md)
+[Class 3 Notes - Revisions and the Cloud](code-102-notes/reading-notes/class3.md)
 
-[Class 4 Notes - Structure Webpages for HTML](code-102-notes/class4.md)
+[Class 4 Notes - Structure Webpages for HTML](code-102-notes/reading-notes/class4.md)
 
-[Class 5 Notes - Design Web Pages with CSS](code-102-notes/class5.md)
+[Class 5 Notes - Design Web Pages with CSS](code-102-notes/reading-notes/class5.md)
 
-[Class 6 Notes - Activate Web Pages with Javascript](code-102-notes/class6.md)
+[Class 6 Notes - Activate Web Pages with Javascript](code-102-notes/reading-notes/class6.md)
 
-[Class 7](code-102-notes/class7.md)
+[Class 7 Notes - Programming with Javascript](code-102-notes/reading-notes/class7.md)
 
-[Class 8](code-102-notes/class8.md)
+[Class 8 Notes - ](code-102-notes/reading-notes/class8.md)
 
 ## Code 201 Reading Notes
 [Class 1](code-201-notes/class1.md)

@@ -23,7 +23,7 @@ Please take a look at my [GitHub Profile](https://github.com/evidad)
 
 [Class 7 Notes - Programming with Javascript](code-102-notes/reading-notes/class7.md)
 
-[Class 8 Notes - ](code-102-notes/reading-notes/class8.md)
+[Class 8 Notes - Operators and Loops ](code-102-notes/reading-notes/class8.md)
 
 ## Code 201 Reading Notes
 [Class 1](code-201-notes/class1.md)

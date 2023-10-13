@@ -21,7 +21,7 @@
 
 ## Answer
 
-- What is control flow?
-- What is a JavaScript function?
-- What does it mean to invoke - or call - a function?
-- What are the parenthesis () for when you define a function?
+- What is control flow? - order the computer executes commands
+- What is a JavaScript function? - block of code designed to perform a particular task
+- What does it mean to invoke - or call - a function? - execute a command
+- What are the parenthesis () for when you define a function?  - used to define parameters

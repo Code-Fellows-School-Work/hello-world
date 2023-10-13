@@ -6,8 +6,10 @@ Expressions and operators
 
 Loops and iteration
 - Loops do something repeatedly
-- For loops execute until a condition is false
-- While loops execute until a condition is true
+- For loops execute until a condition is false (executes a finite amount of times)
+    - ex. removing a finite amount of dishes from the dishwasher
+- While loops execute until a condition is true (executes an undefined amount of time)
+    - ex. guessing my password until it's correct
 
 
 

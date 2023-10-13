@@ -40,3 +40,9 @@ p {
 
 Float takes an element outside of his default state
 Display property modifies a default display state
+
+Selector examples
+- Elements ex. p
+- Class ex. .new
+- ID ex. #sitemap
+- Universal ex. *

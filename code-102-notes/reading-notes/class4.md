@@ -35,7 +35,8 @@ Markup language that defines structure of content.
     1. Opening tag
     2. Closing tag
     3. Content
-    4. Element (all 3 combined)
+    4. Attributes of the tag
+    5. Element (all 1, 2, 3)
 
 Attributes contain extra information about the element that you don't want to show in the actual content.
 

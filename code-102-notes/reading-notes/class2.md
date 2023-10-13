@@ -63,3 +63,5 @@ Can you explain what is happening in the following scenario if these commands an
 3. touch new-project/newfile.md - creates a markdown file named newfile within the new-project folder
 4. cd .. - goes back two directories
 5. ls projects/new-project - lists all the contents within the projects/new-project folder
+
+

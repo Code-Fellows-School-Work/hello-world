@@ -1,3 +1,3 @@
-# Class 8 Notes - Operator Loops
+# Class 8 Notes - Operators and Loops
 
-Test
+

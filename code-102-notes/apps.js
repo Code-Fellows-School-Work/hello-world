@@ -1,50 +1,27 @@
-// alert('Welcome!');
-
-// const usersAnswer = prompt('Describe your favorite flavor of poke.');
-
-// console.log(usersAnswer);
-
-// if (usersAnswer === null || usersAnswer.trim() === "") {
-//     document.write('I know you did not write anything, but here are some suggestions anyway.');
-//     } else {
-//     document.write('Here are some of your favorites!');
-//     }
-
-
-// function functionName()
-
-// function askName(){
-
-// }
-
-// askName()
-
-{/* <></> */}
-
 alert('Welcome!');
 
+function askMyFlavor() {
+    let myFlavor = prompt('What kind of poke is my favorite? (spicy ahi for answer)');
+    while(myFlavor != 'spicy ahi'){
+        myFlavor = prompt('What kind of poke is my favorite? (spicy ahi for answer)');
+    }
+}
+
 function askFlavor() {
-    let usersFlavor = prompt('What kind of poke is my favorite? (null for answer 1; spicy ahi for answer 2; anything else for answer 3; nah to repeat question)');
+    let usersFlavor = prompt('What kind of poke is your favorite? (null for answer 1;  anything else for answer 2)');
     console.log(usersFlavor);
     if (usersFlavor === null || usersFlavor.trim() === "") {
         document.write('I know you did not write anything, but here are some of my favorites anyway.');
-    } else if (usersFlavor == 'spicy ahi') {
-        document.write('that is my favorite and here are some more!');
-    } else if (usersFlavor == 'nah') {
-        usersFlavor = prompt('What kind of poke is my favorite? (null for answer 1; spicy ahi for answer 2; anything else for answer 3)');
     } else {
-        document.write(usersFlavor + ', are you even sure that is a poke?');
+        document.write(usersFlavor + ', are you even sure that is poke?');
     }
-    // document.write(usersFlavor + ' is my favorite too! Here are some of my recommendations!');
-  }
+}
 
-    // function askFavoritePoke() {
-    // let favoritePoke = prompt('Describe your favorite flavor of poke.');
-    // console.log(favoritePoke);
-    // // if (favoritePoke === null || favoritePoke.trim() === "") {
-    // // document.write('I know you did not write anything, but here are some suggestions anyway.');
-    // // } else {
-    // // document.write('Here are some of your favorites!');
-    // // }
-    // return favoritePoke;
+function askNumber() {
+    let userNumber = prompt('On a scale of 1-5, how many poke bowls can you eat?');
+
+    for (let i = 1; i <= userNumber; i++) {
+        document.write('<img src="//live.staticflickr.com/8369/8511228685_f531e4afd1_h.jpg" width="400px" , height="400px">')
+    }
+}
 
